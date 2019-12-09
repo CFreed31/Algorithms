@@ -5,4 +5,4 @@
 ### *- LU Factorization algorithm*
 ### *- False Position Algorithm*
 ---
-#### *(Algorithms done with MATLAB)*
+#### *(Algorithms by Clayton Freed, done with MATLAB)*
